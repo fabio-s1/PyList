@@ -43,20 +43,20 @@ To run this project, you need to have Python installed on your machine. The proj
 ## Usage
 
 - The application will prompt you with options to:
-    1. Add a task.
-    2. Mark a task as completed.
-    3. Remove a task.
-    4. Show the list of all tasks.
+    1. Show the list of all tasks.
+    2. Add a new task.
+    3. Mark a task as done.
+    4. Remove a task.
     5. Exit the program.
 
 Example of usage in the terminal:
 
 ```bash
 Please choose an option:
-1. Add task
-2. Mark task as done
-3. Remove task
-4. Show task list
+1. Show tasks
+2. Add task
+3. Mark task as done
+4. Delete task
 5. Exit
 ```
 
